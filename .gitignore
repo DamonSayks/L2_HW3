@@ -1,3 +1,5 @@
-DerivedDataCache/
-Intermediate/
-Saved/
+#ignored cash
+/DerivedDataCache/
+/Intermediate/
+#ignored saved files
+/Saved/
